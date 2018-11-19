@@ -1,8 +1,21 @@
+## Description
+
+Code for a tutorial I followed from the React documentation: [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+The tutorial involved coding a Tic-Tac-Toe game and grasping basic React concepts.
+[React](https://reactjs.org/) is a Javascript Library for building user interfaces.
+
+Check out my blog post with my study notes. 🧙‍
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run format`
+
+Formats source code using [Prettier](https://prettier.io/).<br>
 
 ### `npm start`
 
